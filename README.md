@@ -1,2 +1,2 @@
 # sbtlMaker
-An R package (in future) to make subtitles of different formats
+An R function turning coordinates of an underwater ROV into subtitles to be overlayed on video
